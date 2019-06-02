@@ -1,3 +1,5 @@
-public static void mian(String[] args){
-    System.out.println("HelloWorld");
+#include <stdio.h>
+int main()
+{
+    printf("HelloWorld");
 }
